@@ -2,8 +2,8 @@
 
 Data Analytics Project using GA <br>
 
-Features implemented
--- Pageview Info
+Features implemented <br>
+Pageview Info
   --- Index
   --- Analyze
   --- About
