@@ -3,8 +3,9 @@
 Data Analytics Project using GA <br>
 
 Features implemented <br>
-Pageview Info
-  --- Index
+<ul>
+## Pageview Info
+  ### <li>Index</li>
   --- Analyze
   --- About
 -- Event Info  
